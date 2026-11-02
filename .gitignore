@@ -1,0 +1,5 @@
+# Firmware files are never committed
+*.bin
+*.exe
+*.dmg
+__pycache__/
